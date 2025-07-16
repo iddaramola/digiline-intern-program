@@ -1,0 +1,2 @@
+.profile-card { width: 300px; border: 1px solid #ccc; padding: 20px; transition: transform 0.3s; }
+.profile-card:hover { transform: scale(1.05); }

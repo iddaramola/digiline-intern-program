@@ -1,0 +1,1 @@
+- [ ] Build a dynamic card generator from config array.

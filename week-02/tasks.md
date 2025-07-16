@@ -1,0 +1,1 @@
+- [ ] Build a profile card with hover effect.
