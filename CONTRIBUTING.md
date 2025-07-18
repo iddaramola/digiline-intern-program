@@ -17,28 +17,49 @@ Welcome to the internship repo! This guide explains how to work in this project.
    git checkout -b week-01-dev
    ```
 
-3. **Commit your work**
-   - Commit frequently.
-   - Use clear, descriptive commit messages.
+3. **Do your work and commit often**
+   - Write clear, small commits.
 
    ```bash
    git add .
-   git commit -m "Add contact form with semantic HTML"
+   git commit -m "Add contact form with labels"
    ```
 
-4. **Push & open a Pull Request**
-   - Push your branch to GitHub.
-   - Open a PR **from `week-01-dev` → `week-01`**.
-   - Request review from your mentor(s).
+4. **Push your feature branch**
 
    ```bash
    git push -u origin week-01-dev
    ```
 
-5. **Respond to feedback**
-   - Make changes as requested.
-   - Never merge your own PR — wait for approval.
+5. **Open a Pull Request (PR)**
 
+   - PR **from** your feature branch (e.g., `week-01-dev`).
+   - PR **into** the week branch (e.g., `week-01`).
+
+6. **Link the Issue in the PR description**
+
+   - In your PR description, write:
+
+     ```
+     Closes #1
+     ```
+
+     (Replace `#1` with your Issue number.)
+
+   - This automatically closes the Issue when the PR merges.
+
+7. **Request a review**
+
+   - Add your mentor(s) as reviewers.
+   - Respond to feedback and push changes if needed.
+
+8. **Keep your PR up to date**
+
+   - Make more commits → push → same PR updates.
+
+9. **Never merge your own PR**
+
+   - Wait for approval and let your mentor handle merging.
 
 ## ✅ Code Standards
 
