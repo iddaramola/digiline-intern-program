@@ -1,2 +1,0 @@
-- [ ] Build a semantic HTML page with header, about, and contact form.
-- [ ] Use labels and inputs correctly.

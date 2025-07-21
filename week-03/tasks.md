@@ -1,2 +1,0 @@
-- [ ] Build header, sidebar, and content area.
-- [ ] Make layout responsive.

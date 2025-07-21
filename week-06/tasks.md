@@ -1,2 +1,0 @@
-- [ ] Build a tabbed interface in frontend.
-- [ ] Serve JSON from Express backend.
